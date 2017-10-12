@@ -1,6 +1,7 @@
 # pymongo
 
-Mini projects with PyMongo
+Mini projects with PyMongo:
+
 Here I present some useful exapmles on how to use PyMongo to connecet with MongoDB (a very useful NoSQL data structure)
 
 Accodring to the PyMongo documentations[1]:
